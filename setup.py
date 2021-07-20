@@ -1,6 +1,9 @@
 #!/usr/bin/env python
 # coding=utf-8
 
+import _locale
+_locale._getdefaultlocale = (lambda *args: ['zh_CN', 'utf8'])
+
 import os
 import sys
 import json
