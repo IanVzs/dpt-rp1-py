@@ -1,0 +1,4 @@
+httpsig
+urllib3
+requests
+tqdm
