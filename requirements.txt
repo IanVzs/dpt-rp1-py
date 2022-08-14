@@ -2,3 +2,5 @@ httpsig
 urllib3
 requests
 tqdm
+pbkdf2
+zeroconf
